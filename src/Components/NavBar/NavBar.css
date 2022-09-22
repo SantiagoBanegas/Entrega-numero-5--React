@@ -1,0 +1,16 @@
+.navBar{
+    background-color: whitesmoke;
+    font-display: flex;
+    }
+
+.tituloPag{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.menuNav{
+    display: flex;
+    justify-content: space-evenly;
+}
